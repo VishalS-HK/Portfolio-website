@@ -68,6 +68,7 @@
 }
 
 .description {
+    align-self: center;
     max-width: 45ch;
 }
 
