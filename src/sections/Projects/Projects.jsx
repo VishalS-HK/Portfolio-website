@@ -1,5 +1,5 @@
 import React from "react";
-import styles from './ProjectsStyles.module.css'
+import styles from './ProjectsStyles2.module.css'
 import BackupService from '../../assets/Backup.png'
 import FortuneTeller from '../../assets/FortuneTeller.png'
 import ProductRecomm from '../../assets/ProductRec.jpg'
@@ -42,7 +42,7 @@ function Projects() {
                     <h3>Product Recommendation System</h3>
                 </a> */}
 
-                <ProjectCard src={IndicBert} link="https://github.com/VishalS-HK/NLP-MiniProject" h3="Aggression Detection using IndicBERT" />
+                <ProjectCard src={IndicBert} link="https://github.com/VishalS-HK/NLP-MiniProject" h3="Aggression Detection" />
 
                 {/* <a href="https://github.com/VishalS-HK/NLP-MiniProject">
                     <img className="hover" src={IndicBert} alt="" />
